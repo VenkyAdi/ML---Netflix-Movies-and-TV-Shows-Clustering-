@@ -22,6 +22,9 @@ Our comprehensive analysis extends beyond algorithmic efficiency. By understandi
 
 Explore our GitHub repository to dive deeper into our methodology and findings. Together, let's unlock the potential of data-driven decision-making in shaping the future of streaming entertainment.
 
+
+#### **Exploratory Data Analysis**
+
 ![Pic - 1](https://github.com/VenkyAdi/ML---Netflix-Movies-and-TV-Shows-Clustering-/assets/38469568/ba45179e-1ed7-411e-a858-ca3cad627962)
 
 The analysis reveals a significant prevalence of movies, constituting approximately 69.1% of the total content on Netflix, with TV shows comprising the remaining 30.9%. This insight underscores the platform's focus on movie offerings, reflecting a strategic alignment with consumer preferences for on-demand cinematic experiences. Understanding this content distribution enables informed decision-making for content acquisition, production, and platform optimization to meet evolving viewer demands and maximize engagement.
